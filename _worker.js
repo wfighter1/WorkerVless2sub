@@ -46,8 +46,8 @@ let CMproxyIPs = [
 	//'proxyip.aliyun.fxxk.dedyn.io:HK',//匹配节点名, 有HK就分配该ProxyIP域名
 ]
 let socks5DataURL = '';//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/socks5Data'
-let BotToken ='';
-let ChatID =''; 
+let BotToken ='7368098516:AAGtSsZIyluknlz37E4yifuaRYif2SE174Y';
+let ChatID ='1199209726'; 
 let proxyhosts = [//本地代理域名池
 	//'ppfv2tl9veojd-maillazy.pages.dev',
 ];
